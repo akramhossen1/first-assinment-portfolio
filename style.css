@@ -58,6 +58,9 @@ p{
     width: 50%;
     margin-left: 30px;
 }
+.img3{
+    width: 50%;
+}
 
 .plan{
     text-align: center;
@@ -87,7 +90,12 @@ p{
     width: 50%;
     
 }
-
+.corona{
+    text-align: center;
+}
+.save{
+    width: 45%;
+}
 .footer{
     color: blanchedalmond;
     background-color: black;
