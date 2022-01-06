@@ -18,6 +18,10 @@ body{
 .hero{
     margin-left: 40px;
 }
+.bannr{
+    background-image: url(images/Background.png);
+    background-repeat: no-repeat;
+}
 h1{
     font-size: 50px;
 }
